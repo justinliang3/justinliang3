@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello! 👋
 
-<!--
-**justinliang3/justinliang3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"This README was definitely not written by a large language model."* — A Large Language Model
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+Copilot is thinking...
+
+---
+
+## 🚀 My Skills & Technologies
+
+| Category | Technologies |
+|---|---|
+| 🤖 AI | GitHub Copilot |
+
+---
+
+## 💬 AI Disclaimer
+
+This profile README was:
+- ✅ Written by AI
+- ✅ Reviewed by AI
+- ✅ Approved by AI
+- ✅ Deployed by AI
+- ❓ Read by a human (status: uncertain)
+
+---
