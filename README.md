@@ -1,5 +1,7 @@
 # Hello! 👋
 
+---
+
 ## 🧠 About Me
 
 Copilot is thinking...
