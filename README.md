@@ -1,7 +1,5 @@
 # Hello! 👋
 
-> *"This README was definitely not written by a large language model."* — A Large Language Model
-
 ---
 
 ## 🧠 About Me
